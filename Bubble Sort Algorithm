@@ -1,3 +1,5 @@
+// FOR CHECKING THE WORKING OF THE ALGORITHM
+
 ////#include<stdio.h>
 ////#include<stdlib.h>
 ////
@@ -147,6 +149,9 @@
 //
 //    return 0;
 //}
+
+// FOR CHECKING TIME COMPLEXITY
+
 #include <stdio.h>
 #include <stdlib.h>
 
